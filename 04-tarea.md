@@ -1,0 +1,7 @@
+
+## components/IndecisionHelper.vue
+```
+
+
+```
+
