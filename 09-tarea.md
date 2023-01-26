@@ -1,7 +1,0 @@
-
-## clients/components/ClientList.vue
-```
-
-
-```
-

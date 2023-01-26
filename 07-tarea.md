@@ -1,7 +1,0 @@
-
-## pages/PokemonPage.vue
-```
-
-
-```
-

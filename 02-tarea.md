@@ -1,7 +1,0 @@
-
-## components/SimpleCounter.vue
-```
-
-
-```
-
